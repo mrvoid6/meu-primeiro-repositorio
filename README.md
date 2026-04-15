@@ -10,3 +10,4 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estou começa
 - Conseguir um estágio na área de TI
 - Publicar meus projetos
 - Evoluir como programador
+- teste
